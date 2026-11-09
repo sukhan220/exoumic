@@ -31,4 +31,4 @@ You have the right to access, correct, or request the deletion of your personal 
 
 ## 7. Contact Us
 If you have questions, feedback, or concerns regarding this Privacy Policy or our data handling practices, please reach out to us at:
-* **Email:** support@exoumic.com
+* **Email:** exoumic@gmail.com
